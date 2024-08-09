@@ -1,3 +1,3 @@
 ﻿# hello-world
-This first branch
-this is another changes in my first branch
+This is my first github project
+this is another changes in main branch
